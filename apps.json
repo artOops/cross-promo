@@ -1,5 +1,17 @@
 [
   {
+    "id": "antivor",
+    "name": "Страж",
+    "type": "app",
+    "tagline": "Антивор: тронут телефон — громкая сирена",
+    "emoji": "🛡️",
+    "tint": "linear-gradient(135deg,#2a8c3d,#4ade4a)",
+    "icon": "icons/antivor.png",
+    "ios": null,
+    "googleplay": null,
+    "rustore": "https://www.rustore.ru/catalog/app/com.temych.antivor"
+  },
+  {
     "id": "remont",
     "name": "Ремонт",
     "type": "app",
