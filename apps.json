@@ -262,5 +262,17 @@
     "ios": null,
     "googleplay": null,
     "rustore": "https://www.rustore.ru/catalog/app/com.temych.nightdetector"
+  },
+  {
+    "id": "currency-converter",
+    "name": "Конвертер",
+    "type": "app",
+    "tagline": "Конвертер валют: фиат, крипта, металлы",
+    "emoji": "💱",
+    "tint": "linear-gradient(135deg,#0e8c5a,#16a870)",
+    "icon": "icons/currency-converter.png",
+    "ios": null,
+    "googleplay": null,
+    "rustore": "https://www.rustore.ru/catalog/app/com.apatrakov.currency"
   }
 ]
