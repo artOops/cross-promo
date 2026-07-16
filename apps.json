@@ -274,5 +274,17 @@
     "ios": null,
     "googleplay": null,
     "rustore": "https://www.rustore.ru/catalog/app/com.apatrakov.currency"
+  },
+  {
+    "id": "kak-dela",
+    "name": "Как дела?",
+    "type": "app",
+    "tagline": "Дневник настроения и капсулы времени",
+    "emoji": "🙂",
+    "tint": "linear-gradient(135deg,#2eb84f,#12b39a)",
+    "icon": "icons/kak-dela.png",
+    "ios": null,
+    "googleplay": null,
+    "rustore": null
   }
 ]
