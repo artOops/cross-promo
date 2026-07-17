@@ -108,18 +108,6 @@
     "rustore": "https://www.rustore.ru/catalog/app/com.apatrakov.words"
   },
   {
-    "id": "find-item-ryzhik",
-    "name": "Огоньки Рыжика",
-    "type": "game",
-    "tagline": "Найди спрятанные предметы",
-    "emoji": "🔦",
-    "tint": "linear-gradient(135deg,#fb923c,#f43f5e)",
-    "icon": "icons/find-item-ryzhik.png",
-    "ios": null,
-    "googleplay": null,
-    "rustore": "https://www.rustore.ru/catalog/app/com.ryzhik.finditem"
-  },
-  {
     "id": "arrow-path",
     "name": "Стрелки",
     "type": "game",
