@@ -273,6 +273,18 @@
     "icon": "icons/kak-dela.png",
     "ios": null,
     "googleplay": null,
+    "rustore": "https://www.rustore.ru/catalog/app/com.apatrakov.kakdela"
+  },
+  {
+    "id": "sea-battle",
+    "name": "Морской бой",
+    "type": "game",
+    "tagline": "Онлайн-бой с живым соперником и рейтингом",
+    "emoji": "🚢",
+    "tint": "linear-gradient(135deg,#1e4e9c,#5b93e0)",
+    "icon": "icons/sea-battle.png",
+    "ios": null,
+    "googleplay": null,
     "rustore": null
   }
 ]
