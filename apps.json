@@ -286,5 +286,17 @@
     "ios": null,
     "googleplay": null,
     "rustore": null
+  },
+  {
+    "id": "domino",
+    "name": "Домино",
+    "type": "game",
+    "tagline": "Дворовое домино «козёл» онлайн со ставками",
+    "emoji": "🁫",
+    "tint": "linear-gradient(135deg,#8a5a2b,#4d7296)",
+    "icon": "icons/domino.png",
+    "ios": null,
+    "googleplay": null,
+    "rustore": "https://www.rustore.ru/catalog/app/com.temych.domino"
   }
 ]
