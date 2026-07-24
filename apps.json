@@ -285,7 +285,7 @@
     "icon": "icons/sea-battle.png",
     "ios": null,
     "googleplay": null,
-    "rustore": null
+    "rustore": "https://www.rustore.ru/catalog/app/com.temych.seabattle"
   },
   {
     "id": "domino",
@@ -298,5 +298,17 @@
     "ios": null,
     "googleplay": null,
     "rustore": "https://www.rustore.ru/catalog/app/com.temych.domino"
+  },
+  {
+    "id": "checkers",
+    "name": "Шашки",
+    "type": "game",
+    "tagline": "Русские шашки онлайн 1v1 с рейтингом и лигами",
+    "emoji": "🔴",
+    "tint": "linear-gradient(135deg,#8a5a2b,#c8862b)",
+    "icon": "icons/checkers.png",
+    "ios": null,
+    "googleplay": null,
+    "rustore": "https://www.rustore.ru/catalog/app/com.apatrakov.checkers"
   }
 ]
