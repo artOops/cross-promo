@@ -310,5 +310,17 @@
     "ios": null,
     "googleplay": null,
     "rustore": "https://www.rustore.ru/catalog/app/com.apatrakov.checkers"
+  },
+  {
+    "id": "backgammon",
+    "name": "Нарды",
+    "type": "game",
+    "tagline": "Нарды онлайн: длинные и короткие, 1v1 с рейтингом",
+    "emoji": "🎲",
+    "tint": "linear-gradient(135deg,#14295b,#e8b64c)",
+    "icon": "icons/backgammon.png",
+    "ios": null,
+    "googleplay": null,
+    "rustore": "https://www.rustore.ru/catalog/app/com.apatrakov.backgammon"
   }
 ]
